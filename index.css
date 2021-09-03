@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+background-image: url(./imagenes/ARMAS.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 624px;
+}
+
+.h1{
+    color: rgb(45, 160, 180);
+    margin-top: 0px;
+    text-align: center;
+    font-family: fantasy;
+    padding-top: 85px;
+}
+
+.p{
+    color: rgb(110, 49, 146);
+    margin-top: 0px;
+    text-align: center;
+    font-family: fantasy;
+    padding-top: 85px;
+}
